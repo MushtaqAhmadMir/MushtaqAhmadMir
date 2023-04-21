@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MushtaqAhmadMir
 - 👀 I’m interested in Development, Mobile and Website
 - 🌱 I have been working with React native For cross platform mobile Applications since 2020
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking forward to collaborate !
 - 📫 How to reach me aariyanalee786@gmail.com
 
 <!---
