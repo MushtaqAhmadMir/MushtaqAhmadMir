@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MushtaqAhmadMir
-- 👀 I’m interested in Development, Mobile and Website
+- 👀 I’m interested in Development, Mobile and Website using Technologies (React Native, Flutter)
 - 🌱 I have been working with React native For cross platform mobile Applications since 2020
 - 💞️ I’m looking forward to collaborate !
 - 📫 How to reach me aariyanalee786@gmail.com
